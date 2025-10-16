@@ -101,6 +101,9 @@ To measure IN or Isc
 
 Vi (volts)	IN (amps)
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/2862533a-7684-47c5-b0b5-9e46cc173cc9" />
+
+
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/4cc47cc7-341d-4207-889b-df18c4af74c5" />
 
 	
@@ -116,6 +119,9 @@ IL = IN * RN / ( RN+ RL ) = 2.43mA
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
  
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/399a03e1-fd35-4ad7-8a25-6c08a5b1777a" />
+
+
+<img width="1487" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d2a1e30-7f4d-45f6-8226-9a944354da48" />
 
 
 **RESULT:**
